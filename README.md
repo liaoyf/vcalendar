@@ -6,11 +6,11 @@
 
 #### Installation
 ```
-npm install vcalendar --save
+npm install v-react-calendar --save
 ```
 #### Usage
 ```
-import Calendar,{ MaskCalendar } from 'vcalendar';
+import Calendar,{ MaskCalendar } from 'v-react-calendar';
 import React from 'react';
 import ReactDOM from 'react-dom';
 ReactDOM.render(<Calendar />, container);
