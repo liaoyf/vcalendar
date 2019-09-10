@@ -11,6 +11,7 @@
     "start": "webpack-dev-server --inline --config ./config/webpack.dev.config.js",
     "build": "webpack --optimize-minimize --config ./config/webpack.prod.config.js"
   },
+  "repository":"https://github.com/liaoyf/vcalendar",
   "keywords": [],
   "author": "",
   "license": "ISC",
