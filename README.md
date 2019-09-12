@@ -1,5 +1,5 @@
 ### 通用日历组件
-- 配合imvc同构架构，采用style方式内联css
+- 支持同构，采用style内联css
 - 使用css-module，不会造成全局css污染
 - 含全屏日历以及半屏日历
 
